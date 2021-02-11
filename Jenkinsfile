@@ -15,3 +15,4 @@ pipeline {
             sh "dotnet test Tests/Tests.csproj"
           }
         }
+      }
